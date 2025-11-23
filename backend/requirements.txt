@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+joblib
+numpy
+pandas
+xgboost
+langgraph
+langchain
+google-generativeai
+python-dotenv
